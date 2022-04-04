@@ -7,7 +7,7 @@ NLP19/2013 の C4-2「形容(動)詞の意味と意味フレームとの係わ�
 
 1. 発表スライド 4 の Hasse 図の元になった [formal context (fc) (.csv 形式)](fc-adjectivals-classified-v2.csv)
 
-2. 上の formal context (fc) を構築するための [Excel 作業本](fc-adjectivals-classified-v2.xslx)
+2. 上の formal context (fc) を構築するための [Excel 作業本](fc-adjectivals-classified-v2.xlsx)
 
 # slides used at presentation
 
