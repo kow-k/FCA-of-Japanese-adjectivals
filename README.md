@@ -1,5 +1,8 @@
 # FCA-of-Japanese-adjectivals
 
+
+NLP19/2013 の C4-2「形容(動)詞の意味と意味フレームとの係わり方について」(黒田 航)の発表に使った FCA 用データ
+
 # data
 
 1. 発表スライド 4 の Hasse 図の元になった [formal context (fc) (.csv 形式)](fc-adjectivals-classified-v2.csv)
